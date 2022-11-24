@@ -1,0 +1,22 @@
+.outer{
+ /* margin: auto;  */
+    
+}
+.outer1
+{
+    height: 550px;
+    width: 400px;
+    background-color: rgba(10, 233, 233, 0.829);
+    padding: 40px;
+    color: white;
+    margin: auto;
+}
+.line6
+{
+    height: 30px;
+    width: 250px;
+    border: 1px solid white;
+    color: white;
+     padding-left: 100px;
+     padding-top: 20px;
+}

@@ -1,0 +1,70 @@
+.box1{
+    background-color: rgba(24, 37, 224, 0.671);
+    height: 500px;
+    width: 200px;
+    color: white;
+    padding: 20px;
+}
+.box2
+{
+background-color: white;
+height: 500px;
+width: 300px; 
+padding-left: 40px;
+
+}
+#one
+{
+    padding: 8px 10px 10px 0px;
+    width: 120%;
+    color: black;
+     font-size: inherit; 
+     background-color: white;
+     border: none;
+     border-bottom: 1px solid;
+     
+
+}
+#two
+{
+    padding: 8px 10px 10px 0px;
+    width: 120%;
+    color: black;
+     font-size: inherit; 
+     background-color: white;
+     border: none;
+     border-bottom: 1px solid;
+
+}
+.outer
+{
+    display:flex;
+    border: 1px solid black;
+    width: 700px;
+}
+.button
+{
+    height: 40px;
+    width: 100x;
+    background-color: brown;
+
+    padding-left: 130px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.line4
+{
+    padding-left: 130px;
+}
+.line5
+{
+    height: 30px;
+    width: 200px;
+    padding: 10px;
+    padding-left: 100px;
+    background-color: rgba(240, 248, 255, 0.664);
+}
+.line6
+{
+    padding-left: 30px;
+}

@@ -1,0 +1,191 @@
+ .head
+{
+    margin-left: 200px;
+    color: rgb(142, 172, 172);
+    font-size: 80px;
+} 
+.outer
+{    flex-wrap: wrap;
+    background-color: #f11e41;
+    height: 4200px;
+    flex-wrap: wrap;
+    
+}
+
+li{
+display: inline-block;
+justify-content: space-evenly; 
+padding: 10px;
+border: 0px solid black;
+font-size: small;
+color: rgba(255, 255, 255, 0.63);
+
+}
+.link
+{
+    margin-left: 1010px;
+    display: flex;
+    padding: 20px;
+
+}
+ .img1
+{
+    background-color: plum;
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+} 
+.outer1
+{
+    display: flex;
+
+}
+.box2
+{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+}
+.img2
+{
+    background-color: rgb(160, 221, 180);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.box4
+{
+    height: 300px;
+    width: 550px;
+    padding: 10px;
+    overflow-y: scroll;
+    
+}
+.outer2
+{
+    display: flex;
+
+}
+
+
+.img3
+{
+    background-color: rgb(98, 18, 228);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.box3
+{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    
+}
+.outer3
+{
+    display: flex;
+
+}
+
+.img4{
+    background-color: rgb(240, 123, 14);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.outer4
+{
+    display: flex;
+
+}
+
+.img5
+{
+    background-color: rgb(121, 218, 11);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+
+}
+.outer5
+{
+    display: flex;
+
+}
+
+.img6
+{
+    background-color: rgb(206, 18, 18);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.outer6
+{
+    display: flex;
+
+}
+
+.img7
+{
+    background-color: rgb(38, 81, 105);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.outer7
+{
+    display: flex;
+
+}
+
+.img8
+{
+    background-color: rgb(105, 38, 69);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.outer8
+{
+    display: flex;
+
+}
+
+.img9
+{
+    background-color: rgb(127, 179, 153);
+    height: 400px;
+    width: 900px;
+    margin-left: 200px;
+    padding-left: 20px;
+
+}
+.outer9
+{
+    display: flex;
+
+}
+.end
+{
+    margin-left: 400px;
+    font-size: 40px;
+    color: rgba(255, 232, 127, 0.788);
+}

@@ -1,0 +1,72 @@
+.outer
+{
+    background-color:rgb(206, 97, 115) ;
+    height:650px;
+    width: 600px;
+    /* display: flex; */
+   margin:auto;
+   padding: 10px;
+   padding: 0px;
+   border: 1px solid black;
+
+}
+.inner1
+{
+    background-color:white;
+    height: 550px;
+    width: 500px;
+     margin: 0px;
+     padding-left: 20px;
+     padding-top: 10px;
+
+       border-bottom: 3px solid black;
+     border-right: 3px solid black;
+   
+}
+#one
+{
+    padding: 8px 10px 10px 0px;
+    font-size: inherit;
+    width: 43%;
+}
+#two
+{
+    padding: 8px 10px 10px 0px;
+    width: 90%;
+   color: black;
+   font-size: inherit;
+   background-color: white;
+/* border-bottom: 2px solid; */
+}
+#three
+{
+    padding: 8px 10px 10px 0px;
+    width: 90%;
+   color: black;
+   font-size: inherit;
+   background-color: white;
+/* border-bottom: 2px solid; */
+}
+
+.header
+{
+    padding-left: 150px ;
+    
+    
+}
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    
+}
+.inner{
+    padding-left: 50px;
+
+}
+.line5
+{
+    padding-left: 150px;
+    
+}
+
